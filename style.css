@@ -1,0 +1,18 @@
+h1,h2{
+  text-align: center;
+  font-family: "Tangerine", sans-serif;
+  color: antiquewhite;
+}
+
+body{
+  background-image: url(http://groms-herokuapp-com.global.ssl.fastly.net/uploads/asset/resource/104/0d76e30461a390d44d7c1710dd7c6161.jpg);
+  font-size: xx-large;
+
+}
+
+p{
+  text-align: center;
+  font-family: "wallpaper", sans-serif;
+  color: red;
+  font-size: xx-large;
+}
